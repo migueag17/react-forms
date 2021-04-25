@@ -1,0 +1,20 @@
+.students-table {
+    width: 95%;
+    margin: 0 auto;
+    height: 30px;
+    border: 2px solid blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.name {
+    text-align: left ;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+
+
